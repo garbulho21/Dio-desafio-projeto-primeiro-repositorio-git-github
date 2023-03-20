@@ -1,1 +1,8 @@
-primeira alteraçao
+Comandos git 
+## implementação de configuração com conta e nome de usuario
+git config --global user.name "user.name"
+git config --global user.email "user email"
+## iniciação de commit
+git commit 
+git add * "read.me, arquivo.txt, arquivo.typora"
+git pull 
